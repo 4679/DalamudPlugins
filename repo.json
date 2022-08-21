@@ -46,5 +46,19 @@
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/4679/Glamourer/cn/images/icon.png"
+      },
+      {
+        "Author": "Jawslouis",
+        "Name": "MakePlace Plugin CN",
+        "InternalName": "MakePlacePlugin",
+        "AssemblyVersion": "2.16",
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/MakePlacePlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/MakePlacePlugin/latest.zip"
       }
   ]
