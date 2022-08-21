@@ -1,0 +1,12 @@
+{
+  "Author": "Haselnussbomber",
+  "Name": "HaselTweaks",
+  "InternalName": "HaselTweaks",
+  "AssemblyVersion": "0.4.0.0",
+  "Description": "Included Tweaks:\n\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Instant Portrait\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Some FFXIV tweaks."
+}

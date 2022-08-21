@@ -1,0 +1,50 @@
+[
+    {
+      "Author": "Haselnussbomber",
+      "Name": "HaselTweaks CN",
+      "InternalName": "HaselTweaks",
+      "AssemblyVersion": "0.4.0",
+      "Description": "Included Tweaks:\n\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Instant Portrait\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/4679/HaselTweaks",
+      "DalamudApiLevel": 6,
+      "LoadPriority": 0,
+      "Punchline": "Some FFXIV tweaks.",
+      "Changelog": "New Tweak: Series Exp Bar\n\nThe experience bar shows series rank and experience instead. A little * after the rank indicates a claimable reward.\n\n> Note\n> In order for this tweak to work properly, please make sure to disable \"Show Experience Percentage\" in Simple Tweaks first.\n",
+      "DownloadCount": 112,
+      "LastUpdate": 1661028575,
+      "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip"
+    },
+    {
+      "Author": "cassandra308",
+      "Name": "Where am I again? CN",
+      "InternalName": "WhereAmIAgain",
+      "AssemblyVersion": "0.0.0.10",
+      "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/4679/WhereAmIAgain",
+      "DalamudApiLevel": 6,
+      "LoadPriority": 0,
+      "Punchline": "Shows what zone/region/territory you are in next to the server info.",
+      "LastUpdate": "1655762872",
+      "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/WhereAmIAgain/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/WhereAmIAgain/latest.zip"
+    },
+    {
+        "Author": "Ottermandias",
+        "Name": "Glamourer CN",
+        "Punchline": "Change and save appearance of players.",
+        "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
+        "InternalName": "Glamourer",
+        "AssemblyVersion": "0.1.0.5",
+        "TestingAssemblyVersion": "0.1.0.5",
+        "RepoUrl": "https://github.com/4679/Glamourer",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LastUpdate": 1618608322,
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/4679/Glamourer/cn/images/icon.png"
+      }
+  ]
