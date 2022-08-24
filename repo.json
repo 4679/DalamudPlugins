@@ -74,5 +74,34 @@
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Radar/latest.zip",
         "LastUpdated": "1648382067"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "AntiAfkKick CN 6.1",
+        "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+        "Description": "",
+        "InternalName": "AntiAfkKick-Dalamud",
+        "AssemblyVersion": "9.9.9.0",
+        "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/AntiAfkKick-Dalamud/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/AntiAfkKick-Dalamud/latest.zip",
+        "LastUpdated": "0"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "ReAction CN 6.1",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "9.9.9.0",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
+        "LastUpdate": "1658878503"
     }
   ]
