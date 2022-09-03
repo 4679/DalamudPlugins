@@ -62,20 +62,6 @@
       "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/MakePlacePlugin/latest.zip"
   },
   {
-      "Author":"akira0245",
-      "Name":"Radar",
-      "Punchline":"Displays game objects location on screen and map.",
-      "Description":"\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
-      "InternalName":"Radar",
-      "AssemblyVersion":"2.0.0.3",
-      "ApplicableVersion":"any",
-      "DalamudApiLevel":6,
-      "IconUrl":"https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
-      "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Radar/latest.zip",
-      "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Radar/latest.zip",
-      "LastUpdated":"1648382067"
-  },
-  {
       "Author":"Eternita",
       "Name":"AntiAfkKick CN 6.1",
       "Punchline":"A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
