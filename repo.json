@@ -27,20 +27,5 @@
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/4679/Glamourer/cn/images/icon.png"
-    },
-    {
-        "Author": "Adam",
-        "Name": "Penumbra CN",
-        "Description": "Runtime mod loader and manager.",
-        "InternalName": "Penumbra",
-        "AssemblyVersion": "0.5.6.3",
-        "TestingAssemblyVersion": "0.5.6.3",
-        "RepoUrl": "https://github.com/4679/Penumbra",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
-        "LastUpdate": 1618608322,
-        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Penumbra/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Penumbra/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Bluefissure/Penumbra/master/images/icon.png"
     }
 ]
