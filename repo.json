@@ -44,5 +44,22 @@
         "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/LootMaster/images/icon.png",
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip"
-  }
+  },
+  {
+		"Author": "Chirp",
+		"Name": "Ktisis",
+		"InternalName": "Ktisis",
+		"Description": "A robust posing tool for creating screenshots in GPose.",
+		"AssemblyVersion": "0.2.3.1",
+		"RepoUrl": "https://github.com/Yarukon/Ktisis",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 7,
+		"Tags": [
+			"gpose",
+			"posing"
+		],
+		"IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+		"DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Ktisis/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Ktisis/latest.zip"
+	}
 ]
