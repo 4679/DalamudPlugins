@@ -27,5 +27,22 @@
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/4679/Glamourer/cn/images/icon.png"
-    }
+    },
+    {
+        "Author": "akira0245, Iaotle",
+        "Name": "LootMaster",
+        "Punchline": "Enables you to roll on items using a chat command.",
+        "InternalName": "LootMaster",
+        "Description": "Use /need, /greed, and /pass to roll automatically on items.",
+        "Tags": [
+        "UI",
+        "Utility"
+        ],
+        "AssemblyVersion": "2.1.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/LootMaster/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip"
+  }
 ]
