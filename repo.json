@@ -8,7 +8,6 @@
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/4679/HaselTweaks",
         "DalamudApiLevel": 7,
-        "LastUpdate": 1661028575,
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip"
     },
@@ -19,11 +18,9 @@
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
         "InternalName": "Glamourer",
         "AssemblyVersion": "0.1.1.1",
-        "TestingAssemblyVersion": "0.1.1.1",
         "RepoUrl": "https://github.com/4679/Glamourer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
-        "LastUpdate": 1618608322,
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/4679/Glamourer/cn/images/icon.png"
@@ -61,5 +58,18 @@
 		"IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
 		"DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Ktisis/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Ktisis/latest.zip"
-	}
+	},
+    {
+        "Author": "Eternita",
+        "Name": "Mini",
+        "InternalName": "Mini",
+        "AssemblyVersion": "2.0.0.7",
+        "Description": "Additionally can minimize game to tray or create game's tray icon",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eternita-S/Mini",
+        "DalamudApiLevel": 7,
+        "Punchline": "Adds a button and a command to minimize your game into taskbar",
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Mini/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Mini/latest.zip"
+    }
 ]
