@@ -72,5 +72,18 @@
         "Punchline":"Adds a button and a command to minimize your game into taskbar",
         "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Mini/latest.zip",
         "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Mini/latest.zip"
+    },
+    {
+      "Author": "akira0245",
+      "Name": "Reset enmity command API7",
+      "InternalName": "Reset enmity command",
+      "AssemblyVersion": "0.0.1.1",
+      "Description": "Add a reset striking dummy enmity command. (API7 from NiGuangOWO)",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+      "DalamudApiLevel": 7,
+      "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
+      "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip"
     }
 ]
