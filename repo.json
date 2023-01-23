@@ -61,19 +61,6 @@
         "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Ktisis/latest.zip"
     },
     {
-        "Author":"Eternita",
-        "Name":"Mini",
-        "InternalName":"Mini",
-        "AssemblyVersion":"2.0.0.7",
-        "Description":"Additionally can minimize game to tray or create game's tray icon",
-        "ApplicableVersion":"any",
-        "RepoUrl":"https://github.com/Eternita-S/Mini",
-        "DalamudApiLevel":7,
-        "Punchline":"Adds a button and a command to minimize your game into taskbar",
-        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Mini/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Mini/latest.zip"
-    },
-    {
       "Author": "akira0245",
       "Name": "Reset enmity command API7",
       "InternalName": "Reset enmity command",
