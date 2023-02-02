@@ -72,5 +72,18 @@
       "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
       "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
       "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip"
+    },
+    {
+      "Author": "Taurenkey & Puni.sh",
+      "Name": "Artisan",
+      "InternalName": "Artisan",
+      "AssemblyVersion": "1.0.5.6",
+      "Description": "The all-in-one crafting plugin.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Yarukon/Artisan",
+      "DalamudApiLevel": 7,
+      "IconUrl": "https://love.puni.sh/resources/artisan.png",
+      "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip"
     }
 ]

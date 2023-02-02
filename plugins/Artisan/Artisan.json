@@ -1,0 +1,16 @@
+{
+  "Author": "Taurenkey & Puni.sh",
+  "Name": "Artisan",
+  "InternalName": "Artisan",
+  "AssemblyVersion": "1.0.5.6",
+  "Description": "The all-in-one crafting plugin.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "crafting"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/artisan.png",
+  "Punchline": "A 'simple' crafting plugin.",
+  "Changelog": "- Increases the text length of imports up to 10,000,000 characters per box."
+}
