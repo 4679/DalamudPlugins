@@ -61,47 +61,47 @@
         "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Ktisis/latest.zip"
     },
     {
-      "Author": "akira0245",
-      "Name": "Reset enmity command API7",
-      "InternalName": "Reset enmity command",
-      "AssemblyVersion": "0.0.1.1",
-      "Description": "Add a reset striking dummy enmity command. (API7 from NiGuangOWO)",
-      "ApplicableVersion": "any",
-      "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
-      "DalamudApiLevel": 7,
-      "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
-      "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip"
+        "Author":"akira0245",
+        "Name":"Reset enmity command API7",
+        "InternalName":"Reset enmity command",
+        "AssemblyVersion":"0.0.1.1",
+        "Description":"Add a reset striking dummy enmity command. (API7 from NiGuangOWO)",
+        "ApplicableVersion":"any",
+        "RepoUrl":"https://github.com/akira0245/Reset-dummy-enmity-command",
+        "DalamudApiLevel":7,
+        "IconUrl":"https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
+        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip"
     },
     {
-      "Author": "Taurenkey & Puni.sh",
-      "Name": "Artisan",
-      "InternalName": "Artisan",
-      "AssemblyVersion": "1.0.5.6",
-      "Description": "The all-in-one crafting plugin.",
-      "ApplicableVersion": "any",
-      "RepoUrl": "https://github.com/Yarukon/Artisan",
-      "DalamudApiLevel": 7,
-      "IconUrl": "https://love.puni.sh/resources/artisan.png",
-      "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip"
+        "Author":"Taurenkey & Puni.sh",
+        "Name":"Artisan",
+        "InternalName":"Artisan",
+        "AssemblyVersion":"1.0.5.6",
+        "Description":"The all-in-one crafting plugin.",
+        "ApplicableVersion":"any",
+        "RepoUrl":"https://github.com/Yarukon/Artisan",
+        "DalamudApiLevel":7,
+        "IconUrl":"https://love.puni.sh/resources/artisan.png",
+        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip"
     },
     {
-		"Author": "AlexCSDev",
-		"Name": "XIVWindowResizer",
-		"InternalName": "xivWindowResizer",
-		"Description": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
-		"AssemblyVersion": "1.0.0.0",
-		"RepoUrl": "https://github.com/AlexCSDev/XIVWindowResizer",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 7,
-		"Tags": [
-			"gpose",
-			"posing",
-			"utility"
-		],
-		"IconUrl": "https://raw.githubusercontent.com/AlexCSDev/XIVWindowResizer/master/XIVWindowResizer/images/icon.png",
-		"DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip"
-	}
+        "Author":"AlexCSDev",
+        "Name":"XIVWindowResizer",
+        "InternalName":"xivWindowResizer",
+        "Description":"Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
+        "AssemblyVersion":"1.0.0.0",
+        "RepoUrl":"https://github.com/4679/XIVWindowResizer",
+        "ApplicableVersion":"any",
+        "DalamudApiLevel":7,
+        "Tags":[
+            "gpose",
+            "posing",
+            "utility"
+        ],
+        "IconUrl":"https://raw.githubusercontent.com/AlexCSDev/XIVWindowResizer/master/XIVWindowResizer/images/icon.png",
+        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip"
+    }
 ]
