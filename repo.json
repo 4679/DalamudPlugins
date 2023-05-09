@@ -3,27 +3,13 @@
         "Author":"Haselnussbomber",
         "Name":"HaselTweaks CN",
         "InternalName":"HaselTweaks",
-        "AssemblyVersion":"0.7.5.0",
-        "Description":"Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
+        "AssemblyVersion":"14.9.3.0",
+        "Description": "Keep on tweaking.",
         "ApplicableVersion":"any",
         "RepoUrl":"https://github.com/4679/HaselTweaks",
-        "DalamudApiLevel":7,
+        "DalamudApiLevel":8,
         "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip"
-    },
-    {
-        "Author":"Ottermandias",
-        "Name":"Glamourer CN",
-        "Punchline":"Change and save appearance of players.",
-        "Description":"Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
-        "InternalName":"Glamourer",
-        "AssemblyVersion":"0.1.1.1",
-        "RepoUrl":"https://github.com/4679/Glamourer",
-        "ApplicableVersion":"any",
-        "DalamudApiLevel":7,
-        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Glamourer/latest.zip",
-        "IconUrl":"https://raw.githubusercontent.com/4679/Glamourer/cn/images/icon.png"
     },
     {
         "Author":"akira0245, Iaotle",
@@ -42,36 +28,5 @@
         "IconUrl":"https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/LootMaster/images/icon.png",
         "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip"
-    },
-    {
-        "Author":"Taurenkey & Puni.sh",
-        "Name":"Artisan",
-        "InternalName":"Artisan",
-        "AssemblyVersion":"1.0.5.6",
-        "Description":"The all-in-one crafting plugin.",
-        "ApplicableVersion":"any",
-        "RepoUrl":"https://github.com/Yarukon/Artisan",
-        "DalamudApiLevel":7,
-        "IconUrl":"https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/Artisan/latest.zip"
-    },
-    {
-        "Author":"AlexCSDev",
-        "Name":"XIVWindowResizer",
-        "InternalName":"xivWindowResizer",
-        "Description":"Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
-        "AssemblyVersion":"1.0.0.0",
-        "RepoUrl":"https://github.com/4679/XIVWindowResizer",
-        "ApplicableVersion":"any",
-        "DalamudApiLevel":7,
-        "Tags":[
-            "gpose",
-            "posing",
-            "utility"
-        ],
-        "IconUrl":"https://raw.githubusercontent.com/AlexCSDev/XIVWindowResizer/master/XIVWindowResizer/images/icon.png",
-        "DownloadLinkInstall":"https://github.com/4679/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/4679/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip"
     }
 ]
