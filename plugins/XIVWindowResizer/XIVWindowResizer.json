@@ -10,7 +10,7 @@
     "posing",
     "utility"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
