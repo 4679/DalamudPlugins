@@ -1,18 +1,5 @@
 [
     {
-        "Author": "UnknownX",
-        "Name": "ReAction CN 6.3",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "9.9.9.9",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/ReAction/latest.zip"
-    },
-    {
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2 CN 6.3",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
