@@ -24,5 +24,18 @@
         "RepoUrl": "https://midibard.org",
         "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/MidiBard2/latest.zip"
+    },
+    {
+        "Author": "Iaotle, StarryNight",
+        "Name": "LootMaster",
+        "Punchline": "Dungeon Loot Made Lazy.",
+        "Description": "Various commands to need, greed, or pass on all loot.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "2.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "RepoUrl": "https://github.com/Iaotle/LootMaster",
+        "DownloadLinkInstall": "https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/4679/DalamudPlugins/raw/main/plugins/LootMaster/latest.zip"
     }
 ]

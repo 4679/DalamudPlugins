@@ -1,0 +1,15 @@
+{
+  "Author": "Iaotle, StarryNight",
+  "Name": "LootMaster",
+  "InternalName": "LootMaster",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "Various commands to need, greed, or pass on all loot.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Iaotle/LootMaster",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Dungeon Loot Made Lazy.",
+  "AcceptsFeedback": true
+}
