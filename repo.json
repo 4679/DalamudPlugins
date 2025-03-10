@@ -1,1 +1,21 @@
-[]
+[
+	{
+		"Author": "Sevii",
+		"Name": "Animation Syncer",
+		"Description": "Sync Animations",
+		"InternalName": "AnimSync",
+		"AssemblyVersion": "1.0.2",
+		"TestingAssemblyVersion": "1.0.2",
+		"RepoUrl": "https://github.com/Sevii77/animation_syncer",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 11,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/AnimSync/latest.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/AnimSync/latest.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/AnimSync/latest.zip",
+		"Tags": ["Animation", "Sync"]
+	}
+]

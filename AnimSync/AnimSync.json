@@ -1,0 +1,16 @@
+{
+  "Author": "Sevii",
+  "Name": "Animation Syncer",
+  "InternalName": "AnimSync",
+  "AssemblyVersion": "1.0.2.0",
+  "Description": "Syncs Animations easily by standing ontop another with a compatible animations or use the command to restart every animation.",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 1,
+  "Punchline": "Syncs Animations",
+  "AcceptsFeedback": true
+}
